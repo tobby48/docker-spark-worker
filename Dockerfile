@@ -1,4 +1,4 @@
-FROM tobby48/spark-common:latest
+FROM tobby48/spark-common:2.1
 MAINTAINER Suk Heo <tobby48@gmail.com>
 
 # Add custom files, set permissions
