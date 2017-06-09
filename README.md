@@ -2,7 +2,9 @@
 - Only to install standalone mode
 
 **PULL**
-```docker push tobby48/spark-worker:latest```
+```
+docker push tobby48/spark-worker:latest
+```
 
 
 **RUN**
