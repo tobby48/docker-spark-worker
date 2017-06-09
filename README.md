@@ -3,7 +3,7 @@
 
 **PULL**
 ```
-docker push tobby48/spark-worker:latest
+docker push tobby48/spark-worker:2.1
 ```
 
 
@@ -16,5 +16,5 @@ docker run -d \
 	--restart=always \
 	-e SPARK_MASTER=spark://xxx.xxx.xxx.xxx:7077 \
 	-p 8081:8081 \
-	tobby48/spark-worker:lastest
+	tobby48/spark-worker:2.1
 ```
