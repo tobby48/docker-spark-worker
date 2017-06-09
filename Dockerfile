@@ -1,4 +1,4 @@
-FROM tobby48/docker-spark-common:lastest
+FROM tobby48/spark-common:latest
 MAINTAINER Suk Heo <tobby48@gmail.com>
 
 # Add custom files, set permissions
